@@ -84,24 +84,61 @@ I turn coffee into code and ideas into applications.
 
 ## 🚀 Featured Projects
 
-### 🏠 AR Decor System
-An augmented reality interior design application that allows users to place and visualize furniture and decor items in real-world spaces using their device camera.
+### 🏠 AR Room Decor
+An Augmented Reality mobile application built with Unity and AR Foundation that lets users visualize furniture and decor items directly in their room before making purchasing decisions.
 
-**Tech Stack:** Unity, ARCore/ARKit, C#, Blender
+**Key Features:**
+- Real-time AR object placement on detected planes
+- Touch-based object selection, movement, and rotation
+- Wall image capture and decor recommendation analysis
+- Budget-aware personalized suggestions
+- Multi-scene flow from splash screen to final results
 
----
-
-### 🌍 RiskCast
-An AI-powered disaster risk prediction and visualization platform that analyzes environmental and geospatial data to forecast potential natural hazards and provide early warnings.
-
-**Tech Stack:** React, Node.js, TensorFlow, Python, GIS APIs
+**Tech Stack:** Unity, AR Foundation, C#, Blender
 
 ---
 
 ### 🧱 BrikCode
-A visual programming platform that teaches coding concepts through drag-and-drop blocks, making programming more accessible for beginners and students.
+A lightweight, high-performance Online Judge platform inspired by LeetCode, featuring secure client-side orchestration, remote code execution, and an integrated AI assistant.
 
-**Tech Stack:** React, TypeScript, Tailwind CSS, Blockly
+**Key Features:**
+- Multi-language support (Python, Java, C)
+- Secure test driver injection before execution
+- Sandboxed execution using the Piston API
+- Real-time focus violation detection for proctoring
+- Gemini AI assistant for hints and complexity analysis
+- Interactive architecture diagrams and rich console output
+
+**Tech Stack:** React, TypeScript, Tailwind CSS, Piston API, Gemini AI
+
+---
+
+### 🤖 Ava – Compassionate Companion
+A privacy-friendly Streamlit chatbot that offers empathetic conversations, mood tracking, journaling, and optional voice responses.
+
+**Key Features:**
+- Fast responses powered by Groq API
+- Mood logging and sidebar journal
+- Optional voice replies with ElevenLabs TTS
+- Visible “Stop Speaking” control
+
+**Tech Stack:** Python, Streamlit, Groq API, ElevenLabs
+
+---
+
+### 🎬 Video Converter
+A PyQt desktop application for converting video files into multiple formats using FFmpeg, with support for batch processing and advanced encoding options.
+
+**Key Features:**
+- Convert single or multiple videos
+- Supports MP4, MKV, AVI, MOV, and WebM
+- Quality presets and custom output directory
+- Progress bar with ETA
+- Drag-and-drop file support
+- Detailed video metadata display
+- Optional NVIDIA NVENC acceleration
+
+**Tech Stack:** Python, PyQt, FFmpeg
 
 ---
 
@@ -129,10 +166,10 @@ A visual programming platform that teaches coding concepts through drag-and-drop
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/amalbijukurian">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:amalbiju.aluva@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/amalbijukurian">
