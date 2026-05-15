@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amalbiju&label=Profile%20Views&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=amalbijukurian&label=Profile%20Views&color=blueviolet&style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Kerala,%20India-blue?style=flat-square&logo=googlemaps" />
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Languages-Python%20%7C%20JavaScript-red?style=flat-square" />
@@ -30,12 +30,12 @@ I enjoy building intelligent systems and modern web applications that solve real
 - 🤖 Artificial Intelligence & Machine Learning
 - 🌐 Full-Stack Web Development
 - 📊 Data Science & Analytics
-- 📱 Modern UI/UX Design
+- 🎨 Modern UI/UX Design
 
 ### 🔭 Current Focus
 
 - Building AI-powered applications
-- Exploring Next.js and React ecosystem
+- Exploring Next.js, React, and modern web technologies
 - Working on impactful academic and hackathon projects
 - Strengthening Data Structures and System Design skills
 
@@ -84,43 +84,36 @@ I turn coffee into code and ideas into applications.
 
 ## 🚀 Featured Projects
 
-### 🧠 Mental Health Tracker Chatbot
-AI-powered chatbot for mood tracking, journaling, self-care recommendations, and crisis detection.
+### 🏠 AR Decor System
+An augmented reality interior design application that allows users to place and visualize furniture and decor items in real-world spaces using their device camera.
 
-**Tech Stack:** React, Node.js, NLP, Sentiment Analysis
-
----
-
-### 🌍 Air Quality Forecasting App
-Hyperlocal AQI prediction system using satellite and meteorological data with health advisories.
-
-**Tech Stack:** React/Flutter, TensorFlow, Supabase, Bhuvan Maps
+**Tech Stack:** Unity, ARCore/ARKit, C#, Blender
 
 ---
 
-### 🏥 Blockchain-Based Medical History System
-Secure medical record management system with blockchain-inspired architecture.
+### 🌍 RiskCast
+An AI-powered disaster risk prediction and visualization platform that analyzes environmental and geospatial data to forecast potential natural hazards and provide early warnings.
 
-**Tech Stack:** React, Node.js, MySQL
+**Tech Stack:** React, Node.js, TensorFlow, Python, GIS APIs
 
 ---
 
-### 📚 AI Notes Summarizer
-Upload PDFs or images and generate concise notes, flashcards, and quizzes.
+### 🧱 BrikCode
+A visual programming platform that teaches coding concepts through drag-and-drop blocks, making programming more accessible for beginners and students.
 
-**Tech Stack:** React, OCR, NLP Models
+**Tech Stack:** React, TypeScript, Tailwind CSS, Blockly
 
 ---
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amalbiju&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amalbiju&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amalbijukurian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amalbijukurian&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=amalbiju&theme=tokyo-night&area=true&hide_border=true" />
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=amalbijukurian&theme=tokyo-night&area=true&hide_border=true" />
 </div>
 
 ---
@@ -128,7 +121,7 @@ Upload PDFs or images and generate concise notes, flashcards, and quizzes.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amalbiju&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amalbijukurian&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
@@ -142,7 +135,7 @@ Upload PDFs or images and generate concise notes, flashcards, and quizzes.
   <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/amalbijukurian">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
