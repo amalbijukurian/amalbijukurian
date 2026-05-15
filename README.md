@@ -169,7 +169,7 @@ A PyQt desktop application for converting video files into multiple formats usin
   <a href="https://www.linkedin.com/in/amalbijukurian">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:amalbiju.aluva@gmail.com">
+  <a href="mailto:amalbiju.aluva@gmail.com?subject=Hello%20Amal&body=Hi%20Amal,%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20wanted%20to%20connect.%0A">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/amalbijukurian">
