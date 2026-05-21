@@ -80,67 +80,6 @@ I turn coffee into code and ideas into applications.
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-### 🏠 AR Room Decor
-An Augmented Reality mobile application built with Unity and AR Foundation that lets users visualize furniture and decor items directly in their room before making purchasing decisions.
-
-**Key Features:**
-- Real-time AR object placement on detected planes
-- Touch-based object selection, movement, and rotation
-- Wall image capture and decor recommendation analysis
-- Budget-aware personalized suggestions
-- Multi-scene flow from splash screen to final results
-
-**Tech Stack:** Unity, AR Foundation, C#, Blender
-
----
-
-### 🧱 BrikCode
-A lightweight, high-performance Online Judge platform inspired by LeetCode, featuring secure client-side orchestration, remote code execution, and an integrated AI assistant.
-
-**Key Features:**
-- Multi-language support (Python, Java, C)
-- Secure test driver injection before execution
-- Sandboxed execution using the Piston API
-- Real-time focus violation detection for proctoring
-- Gemini AI assistant for hints and complexity analysis
-- Interactive architecture diagrams and rich console output
-
-**Tech Stack:** React, TypeScript, Tailwind CSS, Piston API, Gemini AI
-
----
-
-### 🤖 Ava – Compassionate Companion
-A privacy-friendly Streamlit chatbot that offers empathetic conversations, mood tracking, journaling, and optional voice responses.
-
-**Key Features:**
-- Fast responses powered by Groq API
-- Mood logging and sidebar journal
-- Optional voice replies with ElevenLabs TTS
-- Visible “Stop Speaking” control
-
-**Tech Stack:** Python, Streamlit, Groq API, ElevenLabs
-
----
-
-### 🎬 Video Converter
-A PyQt desktop application for converting video files into multiple formats using FFmpeg, with support for batch processing and advanced encoding options.
-
-**Key Features:**
-- Convert single or multiple videos
-- Supports MP4, MKV, AVI, MOV, and WebM
-- Quality presets and custom output directory
-- Progress bar with ETA
-- Drag-and-drop file support
-- Detailed video metadata display
-- Optional NVIDIA NVENC acceleration
-
-**Tech Stack:** Python, PyQt, FFmpeg
-
----
 
 ## 📈 GitHub Analytics
 
