@@ -84,7 +84,7 @@ I turn coffee into code and ideas into applications.
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amalbijukurian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="github-readme-stats-ten-lake-15.vercel.app/api?username=amalbijukurian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amalbijukurian&theme=tokyonight&hide_border=true" />
 </div>
 
