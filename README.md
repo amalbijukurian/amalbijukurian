@@ -97,7 +97,7 @@ I turn coffee into code and ideas into applications.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amalbijukurian&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="[https://github-profile-trophy.vercel.app/?](https://github-profile-trophy-fork-two.vercel.app/?)username=amalbijukurian&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
